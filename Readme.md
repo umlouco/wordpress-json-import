@@ -1,6 +1,7 @@
 # Wordpress JSON Import
 Import Wordpress post in JSON format 
 ## JSON example 
+`
 [{
 		"categories": [
 			["Category 1", "Subcategory 1"],
@@ -58,3 +59,4 @@ Import Wordpress post in JSON format
 		}]
 	}
 ]
+`
